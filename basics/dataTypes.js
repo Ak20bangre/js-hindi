@@ -6,7 +6,8 @@ let age=18
 console.log(typeof age);
 
 //Primitive => String, Number, Boolean, null, undefined, Symbol, BigInt
+//Primitive variable are stored in stack 
 
 // Reference (non primitive) => array, objects, functions
-
+// Non primitive are stored in heap
 
