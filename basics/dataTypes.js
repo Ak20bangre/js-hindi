@@ -4,3 +4,9 @@
 
 let age=18
 console.log(typeof age);
+
+//Primitive => String, Number, Boolean, null, undefined, Symbol, BigInt
+
+// Reference (non primitive) => array, objects, functions
+
+
