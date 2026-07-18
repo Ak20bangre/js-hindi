@@ -39,3 +39,13 @@ const obj2={
 const obj3={...obj1,...obj2}  // concat objects
 console.log(obj3)
 
+const course ={
+    name: "JS-hindi",
+    price: 999,
+    Instructor:"hitesh"
+}
+
+const {Instructor : Teacher} = course   // destructuring an object
+console.log(Teacher)
+
+
